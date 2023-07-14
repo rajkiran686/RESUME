@@ -2,7 +2,6 @@ import React from 'react'
 import './Resume.css'
 const Resume = () => {
   return (
-   
     <div >
         <div>
             <div className='mainhead'>
@@ -43,27 +42,7 @@ const Resume = () => {
           <h4 style={{marginTop:'-10px'}}>TOOLS:</h4>
           <p style={{color:'grey' ,marginTop:'-15px'}}><li>Github</li></p>
           <h4 style={{marginTop:'-10px'}}>DATABASE:</h4>
-          <p style={{color:'grey' ,marginTop:'-15px'}}><li>Mysql</li></p>
-
-
-
-
-
-
-
-
-
-
-
-          
-
-
-          
-          
-
-
-
-            
+          <p style={{color:'grey' ,marginTop:'-15px'}}><li>Mysql</li></p>   
           </div> 
           <div className='right'>{/*for right*/}
           <p style={{color:'grey',fontSize: 25}}>CAREER OBJECTIVE</p>
@@ -94,21 +73,7 @@ const Resume = () => {
           <p style={{color:'grey',fontSize: 25,marginTop:'-10px'}}>INTERESTS</p>
           <p style={{marginTop:'-20px',color:'grey'}}><ul><li>playing Badminton, Kabbadi and Cricket.</li></ul></p>  
           <p style={{marginTop:'-10px',color:'grey'}}><ul><li>Learning new things.</li></ul></p>  
-          <p style={{marginTop:'-10px',color:'grey'}}><ul><li>Listening the music.</li></ul></p>  
-
-
-
-
-
-
-
-
-          
-
-
-
-          
-          
+          <p style={{marginTop:'-10px',color:'grey'}}><ul><li>Listening the music.</li></ul></p>   
           </div> 
 
         </div>
